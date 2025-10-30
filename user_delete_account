@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Delete Account — HelepApp</title>
+</head>
+<body>
+  <h1>Delete Your HelepApp Account</h1>
+  <p>If you want to permanently delete your account and all associated personal data, please follow the steps below:</p>
+  <ol>
+    <li>Email us at <strong>support@helepapp.tech</strong> with your account details (full name, phone number, email used for registration).</li>
+    <li>Specify that you want your account and data deleted.</li>
+  </ol>
+  <p>Once we receive your request, we will delete:</p>
+  <ul>
+    <li>Personal information (name, phone, email)</li>
+    <li>KYC verification documents</li>
+    <li>Service requests, booking history, and chat messages</li>
+  </ul>
+  <p>Some data, such as transaction records, may be kept for <strong>legal or tax compliance purposes</strong> (up to 5 years).</p>
+  <p>If you have any questions, contact <strong>support@helepapp.tech</strong>.</p>
+</body>
+</html>
